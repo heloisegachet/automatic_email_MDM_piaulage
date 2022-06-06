@@ -1,0 +1,6 @@
+Bonjour NOM, 
+
+Ceci est un test pour vérifier que le code fonctionne comme il faut !
+Ta chambre est la CHAMBRE et tu devras payer PRIX...
+
+Bye ^^
